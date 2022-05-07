@@ -197,6 +197,14 @@ h6 {
     margin-top: 0px;
   }
 } */
+.more-info-btn-2 {
+  color: #dab41c; font-size:18px;font-weight: 600;
+}
+.more-info-btn-2:hover {
+  /* font-weight: 800; */
+  color: #212529;
+}
+
 
 /*--------------------------------------------------------------
 # Navigation Menu
@@ -1090,6 +1098,13 @@ section {
 
 .aboutImage {
   height: 500px;
+  width: auto;
+  margin: 0 auto;
+  display: flex;
+  border-radius: 10px;
+}
+.aboutImage2 {
+  height: 300px;
   width: auto;
   margin: 0 auto;
   display: flex;
