@@ -2105,3 +2105,14 @@ section {
 .fooo {
   background-color: #041b28;
 }
+
+.cropper {
+  height: auto;
+  width: 100%;
+  border-radius: 10%;
+}
+.abouttext {
+  font-size: medium;
+  font-weight: 600;
+  margin-left: 30px;
+}
