@@ -14,12 +14,12 @@ body {
 }
 
 a {
-  color: #009961;
+  color: #6f7b83;
   text-decoration: none;
 }
 
 a:hover {
-  color: #00cc81;
+  color: #6f7b83;
   text-decoration: none;
 }
 
@@ -1135,7 +1135,7 @@ section {
 .services .icon-box .icon {
   width: 64px;
   height: 64px;
-  background: #009961;
+  background: #dab41c;
   border-radius: 50px;
   display: flex;
   align-items: center;
@@ -1163,10 +1163,10 @@ section {
 }
 .services .icon-box:hover {
   transform: translateY(-10px);
-  border-color: #009961;
+  border-color: #dab41c;
 }
 .services .icon-box:hover h4 a {
-  color: #009961;
+  color: #dab41c;
 }
 
 /*--------------------------------------------------------------
@@ -1743,7 +1743,7 @@ section {
 }
 .contact .info i {
   font-size: 32px;
-  color: #009961;
+  color: #dab41c;
   float: left;
   line-height: 1;
 }
@@ -1782,7 +1782,7 @@ section {
 .contact .php-email-form .sent-message {
   display: none;
   color: #fff;
-  background: #18d26e;
+  background: #dab41c;
   text-align: left;
   padding: 15px;
   font-weight: 600;
@@ -1947,7 +1947,7 @@ section {
   font-size: 13px;
 }
 #footer .credits a {
-  color: #00b371;
+  /* color: #00b371; */
   transition: 0.3s;
 }
 #footer .credits a:hover {
@@ -2083,4 +2083,25 @@ section {
 
 .tab1 {
   tab-size: 2;
+}
+
+
+.footeer{
+  color: #6f7b83;
+  font-size: 14px;
+  font-weight: 700;
+  width: 50%;
+}
+
+.footeer li{
+  /* color: #6f7b83;
+  font-size: 14px;
+  font-weight: 700;
+  width: 100%; */
+  list-style: none;
+  margin-top: 10px;
+}
+
+.fooo {
+  background-color: #041b28;
 }
