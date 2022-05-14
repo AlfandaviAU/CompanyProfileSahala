@@ -1120,6 +1120,13 @@ section {
   display: flex;
   border-radius: 10px;
 }
+.aboutImage3 {
+  height: 800px;
+  width: auto;
+  margin: 0 auto;
+  display: flex;
+  border-radius: 10px;
+}
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
