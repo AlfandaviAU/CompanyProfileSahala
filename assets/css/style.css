@@ -443,15 +443,20 @@ h6 {
 # Hero Section
 --------------------------------------------------------------*/
 #myVideo {
-  width: auto;
-  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
   object-fit: cover;
   
 }
 #hero {
   width: 100%;
   height: 100vh;
-  /* background: url("../img/jonas-ducker-hFmKsMj_01I-unsplash.jpg") top center; */
+  /* background: url("../background.mp4") top center; */
+  /* background: url("../img/Arang_Sertifikat.png") top center;  */
   background-size: cover;
   background-position: center center;
   position: relative;
